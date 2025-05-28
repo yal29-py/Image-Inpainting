@@ -2,6 +2,9 @@
 
 This project implements an **Image Inpainting Model** designed to fill in missing or corrupted regions in images. The model aims to intelligently predict and restore the content of the masked areas, producing visually coherent and contextually accurate reconstructions.
 
+## Dataset
+https://www.kaggle.com/datasets/theblackmamba31/landscape-image-colorization
+
 ##  Features
 
 - **Edge Detection Guided Inpainting:** The model uses edge detection (Canny, Sobel, etc.) to guide the inpainting process.
